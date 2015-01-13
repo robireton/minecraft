@@ -1,0 +1,12 @@
+*.pyc
+*.jar
+archive/
+mcedit/
+mlg/
+nbtexplorer/
+overviewer/maps/
+resourcepacks/
+schematics/
+servers/**/logs/
+servers/**/world/
+

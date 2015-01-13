@@ -1,0 +1,14 @@
+summon Villager 468 70 -773 { Profession: 0, Career: 1, CareerLevel: 1 }
+summon Villager 472 70 -773 { Profession: 0, Career: 2, CareerLevel: 1 }
+summon Villager 476 70 -773 { Profession: 0, Career: 3, CareerLevel: 1 }
+summon Villager 480 70 -773 { Profession: 0, Career: 4, CareerLevel: 1 }
+summon Villager 484 70 -773 { Profession: 1, Career: 1, CareerLevel: 1 }
+summon Villager 488 70 -773 { Profession: 2, Career: 1, CareerLevel: 1 }
+summon Villager 468 70 -768 { Profession: 3, Career: 1, CareerLevel: 1 }
+summon Villager 472 70 -768 { Profession: 3, Career: 2, CareerLevel: 1 }
+summon Villager 476 70 -768 { Profession: 3, Career: 3, CareerLevel: 1 }
+summon Villager 480 70 -768 { Profession: 4, Career: 1, CareerLevel: 1 }
+summon Villager 484 70 -768 { Profession: 4, Career: 2, CareerLevel: 1 }
+summon Zombie 488 70 -768 { IsVillager: 1 }
+summon PigZombie 492 70 -773
+summon Witch 492 70 -768

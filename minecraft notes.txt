@@ -1,0 +1,45 @@
+workshop: 217 39 264
+house: 206 66 247
+my village: 202 72 507
+chasm base under my village: 210 19 508
+north-east village camp: 773 72 -262
+desert village near temple: 697 70 -163
+insane plateau base camp: 952 73 -246
+top of insane plateau: 943 183 -220
+far north-east camp: 880 68 -595
+north north west savanna camp: -116 69 -642
+savanna village: -175 72 -775
+desert hills / beach temple: -445 65 -869
+north west desert/river camp: -575 64 -574
+desert village w/church & blacksmith: -414 63 -391
+horse camp: -82 63 -180
+sand tunnel shelter: 439 72 389
+ocean-side savanna camp: 579 63 501
+high plateau shelter: -64 83 831 (cool caves at base)
+
+home-village tunnel: x:201, y:59-61, z:255-508
+
+abandoned mine base: 326 46 -13
+
+pick back up: x:343, y:40, z:102
+x:323, y:24, z:121
+x:332, y:33, z:93
+x:320, y:43, z:86
+
+chests:
+    x:339, y:41, z:116
+    x:198, y:30, z:78
+
+
+tp Rob_Ireton -15 71 -634
+
+
+
+
+grey horses: -15 71 -634
+palimino & paint: -82 65 958
+horses + ravine: -331 63 -405
+
+
+
+213-4 36 287-8
