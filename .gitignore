@@ -9,4 +9,7 @@ resourcepacks/
 schematics/
 servers/**/logs/
 servers/**/world/
+node_modules
+villages.json
+level.json
 

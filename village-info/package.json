@@ -1,0 +1,14 @@
+{
+  "name": "minecraft",
+  "version": "1.0.0",
+  "description": "various",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prismarine-nbt": "^1.3.0"
+  }
+}
