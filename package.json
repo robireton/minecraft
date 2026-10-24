@@ -1,0 +1,26 @@
+{
+  "name": "@robireton/minecraft",
+  "description": "Keep Fabric mods, resource packs, shader packs and data packs up to date from Modrinth",
+  "type": "module",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "update": "node mod-update.js",
+    "check": "node mod-update.js --dry-run",
+    "lint": "eslint .",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robireton/minecraft.git"
+  },
+  "author": "Rob Ireton <rob@ireton.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^10.13.0",
+    "neostandard": "^0.14.1"
+  }
+}
